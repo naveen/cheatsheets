@@ -4,6 +4,10 @@ install packages from requirements.txt
 
     pip install -r requirements.txt
 
+export packages to requirements.txt
+
+    pip freeze > requirements.txt
+
 setup virtualenvwrapper
 
     pip install virtualenvwrapper
